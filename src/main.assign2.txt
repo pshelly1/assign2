@@ -27,6 +27,6 @@ def gcd(a, b)
           
           
 
-          System.out.println(:The GCD is:")
+          System.out.println(:The GCD is:");
          }
      }
