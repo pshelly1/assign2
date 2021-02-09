@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class Main
+{
+public static void main(String[] args)
+{
+Scanner reader = new Scanner(System.in);
+String buffer;
+ 
+ 
+ System.out.println("This program computes the GCD of 2 positive integers.");
+ System.out.print("Enter the first integer:");
+System.out.print("Enter the second integer:"):
+
+
+def gcd(a, b)
+    if b=0:
+       return A
+       
+       return findGCD(B,A%B);
+     if a>b:
+          return B
+          
+          
+
+          System.out.println(:The GCD is:")
+     }
